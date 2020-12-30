@@ -1,5 +1,5 @@
 # blackjack
 A python version of the card game Blackjack.
 
-# Rules
+Rules
 https://bicyclecards.com/how-to-play/blackjack/
