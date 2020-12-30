@@ -1,0 +1,43 @@
+Blackjack Notes
+
+RULES:
+https://bicyclecards.com/how-to-play/blackjack/
+
+NOUNS:
+cards
+deck
+dealer
+player
+suits - spades, clubs, hearts, diamonds
+21
+score
+face down card
+face up card
+hand - player's or dealer's cards on table
+natural - ace + facecard on original deal. Both player and dealer can get them
+soft hand - hand that contains ace and a non-face card
+insurance - a side bet made when dealer's face up card is an ace
+discard pile - cards permanently removed from play after round is over
+
+VERBS:
+shuffle - randomize cards in deck before cut or dealing
+cut - determine stopping point for draws before shuffling deck
+draw - remove card from deck
+deal - distribute cards to player and dealer (may be face up or face down)
+flip - flip card from face down to face up
+stand - do not receive another card
+hit - receive another card
+bust - sum of cards greater than 21
+split pairs -
+double down -
+
+GENERAL NOTES:
+52 card deck
+aces = 1 or 11
+face cards = 10
+number cards = pip value
+
+PLAY ORDER:
+deal
+player turn - hit or stand
+dealer turn - reveal face down card. hit or stand
